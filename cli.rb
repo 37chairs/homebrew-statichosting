@@ -1,4 +1,4 @@
-class Statichosting < Formula
+class Cli < Formula
   desc "Command line client for sites published on statichosting.co"
   homepage "http://statichosting.co"
   url "https://github.com/37chairs/homebrew-statichosting/blob/master/statichosting-0.5.0.tar.gz?raw=true"
